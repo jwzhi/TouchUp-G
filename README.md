@@ -6,5 +6,5 @@ Official repo for code and implementations for TouchUp-G: https://arxiv.org/abs/
 
 You can find the code for processing Amazon-CP here. 
 
-License
+**License**
 This project is licensed under the Apache-2.0 License.
